@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfh_burgenland_bswe_3_b_docusaurus=self.webpackChunkfh_burgenland_bswe_3_b_docusaurus||[]).push([[6839],{8776:s=>{s.exports=JSON.parse('{"label":"hello","permalink":"/fh-burgenland-bswe-docusaurus/blog/tags/hello","allTagsPath":"/fh-burgenland-bswe-docusaurus/blog/tags","count":2}')}}]);
